@@ -1,0 +1,30 @@
+mkdir NameofYourFolder
+Open your File to create your anything you like 
+for example
+touch note.txt
+README.md
+etc
+
+
+Create your GITHUB or Login
+Go-to Repositories Then
+Click on NEW
+Look at or find "Repository name" and Type any Name there
+
+Note: you can leave it on Public or Private Then
+Click on Create Repository
+
+Go-Back to your CODE
+git add note.txt
+git add REAME.md
+
+Note: If you want to ADD ALL at the same time 
+git add .
+
+git commit -m "You can type anything here"
+git remote add origin "Paste you link from your GITHUB Account"
+git push -u origin master
+
+
+
+
